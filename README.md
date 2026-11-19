@@ -1,8 +1,8 @@
 # Dilution Ensemble Trophy Forecaster
 
-[![make.fun](https://make.fun/bounty/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?ref=jyrqfb5w)
-[![rank](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/prellxz-gm/gta6-trophy-ensemble-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![reward](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/prellxz-gm/gta6-trophy-ensemble-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![make.fun](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?ref=jyrqfb5w)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/prellxz-gm/gta6-trophy-ensemble-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/prellxz-gm/gta6-trophy-ensemble-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
 
 Forecasts every GTA VI PS5 trophy's Exophase earn rate in week one — for the
 [make.fun bounty](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?ref=jyrqfb5w)
